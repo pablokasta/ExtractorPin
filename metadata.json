@@ -1,5 +1,5 @@
 {
-  "name": "PDF Hotspot Extractor",
+  "name": "PDF  Extractor",
   "description": "Extract 10-digit voucher numbers from PDF 'ficha hotspot' and export to Excel.",
   "requestFramePermissions": [],
   "majorCapabilities": []
